@@ -1,7 +1,9 @@
 /* 
+
 Pseudocódigo funcionalidad de un cajero automático:
 Inicio
-    Escribir "Bienvenido al cajero automático. Ingrese su nombre:"
+    Escribir "Bienvenido a
+    l cajero automático. Ingrese su nombre:"
     Leer usuario
     Si usuario está vacío Entonces
         usuario <- "Usuario"
