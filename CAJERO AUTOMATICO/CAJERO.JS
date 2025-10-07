@@ -1,4 +1,5 @@
 /* 
+
 Pseudocódigo funcionalidad de un cajero automático:
 Inicio
     Escribir "Bienvenido al cajero automático. Ingrese su nombre:"
